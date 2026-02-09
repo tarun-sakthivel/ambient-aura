@@ -1,0 +1,17 @@
+{
+  "name": "Ambient Visualizer",
+  "short_name": "Ambient",
+  "description": "Minimalist ambient music visualizer",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
